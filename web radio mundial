@@ -1,8 +1,8 @@
 {
   "stream_url": "https://stm1.voxhd.com.br:6938/;",
   "app_name": "Web Rádio Mundial",
-  "logo_url": "https://i.postimg.cc/g2tszZ40/xdvd.png",
-  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+  "logo_url": "https://i.postimg.cc/brmMxkkG/Icone-app.png",
+  "background_url": "https://i.postimg.cc/wBJjwTWx/FUNDO-APP.png",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
   "live_badge_text": " Ao Vivo",
@@ -20,40 +20,6 @@
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
 
-  "banners": [
-    {
-      "title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": " "
-    },
-    {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": ""
-    },
-    {
-      "title": "PATROCINADOR 3",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://"
-    },
-    {
-      "title": "PATROCINADOR 4",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://wa.me/"
-    },
-    {
       "title": "",
       "subtitle": "",
       "bg_color": "#111111",
