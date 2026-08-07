@@ -1,7 +1,7 @@
 {
   "stream_url": "https://stm1.voxhd.com.br:6938/;",
   "app_name": "Web Rádio Mundial",
-  "logo_url": "https://i.postimg.cc/brmMxkkG/Icone-app.png",
+  "logo_url": "https://i.postimg.cc/SQzb8tvj/file-00000000e21c820e9502af6479cd959b.png",
   "background_url": "https://i.postimg.cc/wBJjwTWx/FUNDO-APP.png",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
@@ -26,8 +26,6 @@
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
-    }
-  ],
 
   "social_icons": [
     {
