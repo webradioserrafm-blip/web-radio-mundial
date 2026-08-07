@@ -16,16 +16,8 @@
   "enable_volume_bar": true,
   "enable_metadata": false,
   "enable_album_art": false,
-  "enable_album_view": true,
-  "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
-
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/"
+  "enable_album_view": false,
+ 
 
   "social_icons": [
     {
