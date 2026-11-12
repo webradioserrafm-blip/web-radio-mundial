@@ -1,0 +1,90 @@
+{
+  "stream_url": "https://stm1.stmsrv.com:8242/stream",
+  "app_name": "Web Rádio Serra",
+  "logo_url": "https://i.postimg.cc/ncBJLfvw/logo.png",
+  "background_url": "https://i.postimg.cc/jjd0vWBm/25459538-19e5-4387-9e07-5ae2fdd5c1de.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.90,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+  
+"enable_tv": false,
+  "tv_url": "",
+  "tv_label": "TV Ao Vivo",
+
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
+  "social_icons": [
+{
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=55    "
+    },
+
+{
+      "icon": "website",
+      "url": "https://www.webradioserra.com"
+    },
+
+    {
+      "icon": "facebook",
+      "url": "https://www.webradioserra.com"
+    },
+    {
+      "icon": "instagram",
+      "url": ""
+    }
+  ]
+}
