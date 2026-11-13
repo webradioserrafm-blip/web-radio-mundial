@@ -9,7 +9,7 @@
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
   "autoplay": true,
-  "enable_banners": true,
+  "enable_banners": false,
   "enable_social": true,
   "enable_recording": true,
   "enable_timer": true,
