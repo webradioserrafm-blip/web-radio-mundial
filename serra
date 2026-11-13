@@ -68,23 +68,22 @@
     }
   ],
   "social_icons": [
-{
-      "icon": "whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=55    "
-    },
-
-{
-      "icon": "website",
-      "url": "https://www.webradioserra.com"
-    },
-
     {
-      "icon": "facebook",
-      "url": "https://www.webradioserra.com"
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=5575991900863"
     },
     {
       "icon": "instagram",
-      "url": ""
+      "url": "https://www.instagram.com/webradioserra"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@webradioserra"
+    },
+    {
+      "icon": "website",
+      "url": "https://webradiomundial.com"
     }
   ]
 }
+
